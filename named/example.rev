@@ -7,4 +7,3 @@
 					)
 @       IN NS   root.example.com.
 99	IN	PTR	server.root.com.
-51	IN	PTR	docker.root.com.

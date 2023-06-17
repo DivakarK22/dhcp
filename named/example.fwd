@@ -9,7 +9,22 @@
 
 server	IN	A	192.168.1.29
 
-ftp	IN	A	192.168.1.57
-docker	IN	A	192.168.1.51
-pxe	IN	A	192.168.1.41
-salt	IN	A	192.168.1.55
+ftp	     IN	 A 192.168.1.57
+dhcp     IN  A 192.168.1.29
+pxe      IN  A 192.168.1.41
+ansible  IN  A 192.168.1.50
+docker   IN  A 192.168.1.51
+grafana  IN  A 192.168.1.52
+jenkins  IN  A 192.168.1.53
+k8       IN  A 192.168.1.54
+salt     IN  A 192.168.1.55
+sensu    IN  A 192.168.1.56
+ftp      IN  A 192.168.1.57
+worker1  IN  A 192.168.1.70
+worker2  IN  A 192.168.1.71
+elastic  IN  A 192.168.1.73
+kibana   IN  A 192.168.1.74
+logstash IN  A 192.168.1.75
+
+
+
