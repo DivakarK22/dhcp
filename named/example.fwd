@@ -1,0 +1,15 @@
+@       IN SOA  root.com. root (
+                                      1001      ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H      ; minimum
+					)
+@	IN NS	server.root.com.
+
+server	IN	A	192.168.1.29
+
+ftp	IN	A	192.168.1.57
+docker	IN	A	192.168.1.51
+pxe	IN	A	192.168.1.41
+salt	IN	A	192.168.1.55

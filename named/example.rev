@@ -1,0 +1,10 @@
+@       IN SOA  root.com. root (
+                                      1001      ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H      ; minimum
+					)
+@       IN NS   root.example.com.
+99	IN	PTR	server.root.com.
+51	IN	PTR	docker.root.com.
