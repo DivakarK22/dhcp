@@ -26,6 +26,7 @@ elastic  IN  A 192.168.1.73
 kibana   IN  A 192.168.1.74
 logstash IN  A 192.168.1.75
 graphite IN  A 192.168.1.99
+jira     IN  A 192.168.1.98
 
 
 
