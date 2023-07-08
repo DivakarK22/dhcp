@@ -27,7 +27,7 @@ kibana   IN  A 192.168.1.74
 logstash IN  A 192.168.1.75
 graphite IN  A 192.168.1.99
 jira     IN  A 192.168.1.98
-final    IN  A 192.168.1.101
+final    IN  A 192.168.1.97
 
 
 
