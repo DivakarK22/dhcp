@@ -3,6 +3,7 @@
 # This script provides support for dynamic DNS update in Microsoft Azure
 # cloud. To enable this feature, change the configuration variables below
 # and make the script executable.
+#DHCP-CUSTOM
 
 primary_interface="eth0"
 required_domain="mydomain.local"
